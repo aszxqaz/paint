@@ -1,0 +1,15 @@
+{
+    "response": {
+        "message": [
+            "username must be shorter than or equal to 15 characters",
+            "username must be longer than or equal to 2 characters",
+            "username must be a string"
+        ],
+        "error": "Bad Request",
+        "statusCode": 400
+    },
+    "status": 400,
+    "options": {},
+    "message": "Bad Request Exception",
+    "name": "BadRequestException"
+}
